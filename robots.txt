@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.halaltent.com/sitemap.xml
+
+# Block admin or private folders (optional)
+Disallow: /admin/
+Disallow: /private/
