@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.halaltent.com/sitemap.xml
+Sitemap: https://www.tenthalalfoodpa.com/sitemap.xml
 
 # Block admin or private folders (optional)
 Disallow: /admin/
